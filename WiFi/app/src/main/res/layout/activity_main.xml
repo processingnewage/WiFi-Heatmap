@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_pic_3"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btn_to_enter"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="220dp"
+        android:background="@drawable/button_shape_yuan"
+        android:text="@string/enter_view"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:visibility="visible"
+        style="?android:attr/buttonBarButtonStyle"/>
+
+    <Button
+        android:id="@+id/btn_to_collect"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="80dp"
+        android:background="@drawable/button_shape_yuan"
+        android:text="@string/collect_view"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:visibility="visible"
+        style="?android:attr/buttonBarButtonStyle"/>
+
+</LinearLayout>

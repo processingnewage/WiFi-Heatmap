@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">车站通</string>
+    <string name="enter_view">展示</string>
+    <string name="welcome_view">Welcome View</string>
+    <string name="click_to_display">click to display</string>
+    <string name="collect_view">收集</string>
+    <string name="scan">扫描</string>
+    <string name="save">保存</string>
+    <string name="clean">清空</string>
+    <string name="select">匹配</string>
+    <string name="location_display">定位结果展示</string>
+    <string name="input_location">请输入当前采集的位置</string>
+    <string name="collect">收集</string>
+</resources>
